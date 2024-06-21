@@ -12,7 +12,7 @@ This project, titled **Credit Card Usage Analysis**, is aimed at assisting Mitro
 
 1. **[PBI Report.pdf](./PBI%20Report.pdf)**: Contains the Power BI report consisting of 2 pages.
 2. **[Report.pdf](./Report.pdf)**: Summarizes the final findings derived from the analysis.
-3. **[preview.png](./preview.png)**: Preview image of the first page of the Power BI dashboard.
+3. **[preview.png](./previeww.png)**: Preview image of the first page of the Power BI dashboard.
 4. **[problem_statement.pdf](./problem_statement.pdf)**: Original problem statement provided by Mitron Bank.
 
 ## Problem Statement

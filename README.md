@@ -6,7 +6,7 @@ This project, titled **Credit Card Usage Analysis**, is aimed at assisting Mitro
 
 ## Preview
 
-![Power BI Dashboard Preview](./preview.png)
+![Power BI Dashboard Preview](./previeww.png)
 
 ## Project Files
 

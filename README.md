@@ -8,6 +8,8 @@ This project, titled **Credit Card Usage Analysis**, is aimed at assisting Mitro
 
 ![Power BI Dashboard Preview](./previeww.png)
 
+### You can access the report [here](https://app.powerbi.com/view?r=eyJrIjoiNDJiNGM4ZmUtNDk1My00NTkzLTk4MzctYzdmYjc5ZWM0MzRlIiwidCI6IjgzNjg3YmJjLTBkNzEtNDljYS05ODkwLTA2MmNjNjliMmQ4MCJ9&pageName=ReportSection).
+
 ## Project Files
 
 1. **[PBI Report.pdf](./PBI%20Report.pdf)**: Contains the Power BI report consisting of 2 pages.
